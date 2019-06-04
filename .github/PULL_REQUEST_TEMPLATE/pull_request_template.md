@@ -1,5 +1,9 @@
 # Description
 
+**IMPORTANT: Please do not create a Pull Request without creating an issue first.**
+
+*Any change needs to be discussed before proceeding. Failure to do so may result in the rejection of the pull request.*
+
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 Fixes # (issue)
